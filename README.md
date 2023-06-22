@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JhonDavidBedoya
-- 👀 I’m interested in Android, Game, Java and Web development
-- 🌱 I’m currently learning Unity Game development
+- 👀 I’m interested in Python, Data Science, Android, Game, Java and Web development
+- 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
